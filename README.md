@@ -46,5 +46,9 @@ Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
 
+
+
+[mugil beee 3.pdf](https://github.com/user-attachments/files/26060144/mugil.beee.3.pdf)
+
 RESULT:
 Thus the staircase wiring is connected and tested.
